@@ -27,5 +27,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "jest-dom": "^3.1.4",
+    "react-testing-library": "^7.0.0"
   }
 }

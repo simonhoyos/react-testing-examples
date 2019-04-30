@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal should open and close modal 1`] = `
+<div>
+  <button
+    type="button"
+  >
+    Open
+  </button>
+  <div
+    class="overlay"
+  >
+    <div
+      class="modal"
+      data-testid="modal"
+    >
+      <button
+        type="button"
+      >
+        ×
+      </button>
+      <p>
+        Hello Modal!
+      </p>
+    </div>
+  </div>
+</div>
+`;
